@@ -6,7 +6,7 @@
 <p>
   <!-- <a href="mailto:swarupkanade66@gmail.com" target="_blank"><img height="30" src = "svg/email.svg"></a> -->
   <a href="https://www.linkedin.com/in/kanadeswarup" target="_blank"> <img height="30" src = "svg/linkedin.svg"></a>
-  <a href="https://www.x.com/swarupkanade" target="_blank"> <img height="27" src = "svg/x.svg"></a>
+  <a href="https://www.x.com/swarupkanade" target="_blank"> <img height="30" src = "svg/x.svg"></a>
 </p>
 
 </br>
