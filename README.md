@@ -44,7 +44,7 @@
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> <img src="" height="25">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25">
 </p>
 
 <br>
