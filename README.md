@@ -10,13 +10,12 @@
 </p>
 
 </br>
-<img align ="right" src = "anim.gif" style="border-radius:30%" width="300" height="300">
+<img align ="right" src = "anim.gif" width="300" height="300">
 
 <h2><img src="https://www.svgrepo.com/show/301040/id-card-accreditation.svg" height="20"> About Me</h2> 
-- 💻 I'm currently a final year student at MITAOE, Alandi.<br/>
-- 📚 Pursuing a degree in Computer Engineering.<br/>
+- 🎓 Graduated from MITAOE, Alandi, with a degree in Computer Engineering.<br/>
 - 🌐 Passionate about Web Development, Database Management, Java, and Python.<br/>
-- 🔭 Actively seeking internship opportunities to apply and enhance my skills.<br/>
+- 🔭 Actively seeking career opportunities to apply and enhance my skills.<br/>
 - 📫 How to reach me: swarupkanade66@gmail.com<br>
 </br>
 
@@ -51,7 +50,7 @@
 <h2><img src="https://www.svgrepo.com/show/418866/education-internet-school.svg" height="25"> Educations</h2>
 
 - [Diploma in Computer Engineering](https://www.gpawasari.ac.in/) @ Government Polytechnic Awasari(Kh), Pune (2018-2021)
-- [B.Tech in Computer Engineering](https://mitaoe.ac.in/) @ MIT Academy of Engineering Alandi, Pune (Ongoing)
+- [B.Tech in Computer Engineering](https://mitaoe.ac.in/) @ MIT Academy of Engineering Alandi, Pune (2021-2024)
 
 <br>
 <h2><img src="https://www.svgrepo.com/show/382159/certificates-education-learning-medal-school-study.svg" height="25"> Certifications</h2>
