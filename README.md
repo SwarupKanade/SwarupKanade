@@ -19,31 +19,50 @@
 - 📫 How to reach me: swarupkanade66@gmail.com<br>
 </br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
-<p>
-<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="25"> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25">
-<img src="https://img.shields.io/badge/Java-23ED8B00.svg?style=for-the-badge&logo=gitea&logoColor=white&color=orange" height="25">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25"> 
-<br>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" height="25">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
-<br>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
-<br>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
-<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25">
+## <img src="https://www.svgrepo.com/show/245847/code.svg" height="25"> Programming Languages
+<p align="left">
+  <img src="https://omkarkanade.vercel.app/assets/icons/c++_logo.svg" alt="C++" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/java-svgrepo-com.svg" alt="Java" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/html-5-svgrepo-com.svg" alt="HTML" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/css-3-svgrepo-com.svg" alt="CSS" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/javascript-color.svg" alt="JavaScript" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/python-svgrepo-com.svg" alt="Python" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/dart-svgrepo-com.svg" alt="Dart" width="48" height="48">
+</p>
+
+## <img src="https://www.svgrepo.com/show/184280/palette-art.svg" height="25"> Frontend Frameworks
+<p align="left">
+  <img src="https://omkarkanade.vercel.app/assets/icons/tailwind-svgrepo-com.svg" alt="Tailwind" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/react-svgrepo-com.svg" alt="React" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/next-js-svgrepo-com.svg" alt="Next.js" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/streamlit-seeklogo.com.svg" alt="Streamlit" width="48" height="48">
+</p>
+
+## <img src="https://www.svgrepo.com/show/299227/server-data.svg" height="25"> Backend Frameworks & Databases
+<p align="left">
+  <img src="https://omkarkanade.vercel.app/assets/icons/node-js-svgrepo-com.svg" alt="Node.js" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/express-js-svgrepo-com.svg" alt="Express.js" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/spring-icon-svgrepo-com.svg" alt="Spring Boot" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/mysql-logo-svgrepo-com.svg" alt="MySQL" width="48" height="48">
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/mongo-svgrepo-com.svg" alt="MongoDB" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/firebase-svgrepo-com.svg" alt="Firebase" width="48" height="48">
+</p>
+
+## <img src="https://www.svgrepo.com/show/475631/android-color.svg" height="25"> Mobile Application  
+<p align="left">
+  <img src="https://omkarkanade.vercel.app/assets/icons/flutter-svgrepo-com.svg" alt="Flutter" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/android_studio_Icon_3.6.svg" alt="Android Studio" width="48" height="48">
+</p>
+
+## <img src="https://www.svgrepo.com/show/501824/setting-setting.svg" height="25"> Tools  
+<p align="left">
+  <img src="https://omkarkanade.vercel.app/assets/icons/git-svgrepo-com.svg" alt="Git" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/vscode-svgrepo-com.svg" alt="VS Code" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/netlify-svgrepo-com.svg" alt="Netlify" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/vercel-logo-svgrepo-com.svg" alt="Vercel" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/postman-icon-svgrepo-com.svg" alt="Postman" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/latex-svgrepo-com.svg" alt="Latex" width="48" height="48">
 </p>
 
 <br>
@@ -67,6 +86,16 @@
 [Visit Here !](https://swarupkanade.vercel.app) 🤫
 
 <br/>
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="20"> My GitHub Stats</h2>
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stats and Activity</h2>  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarupkanade&theme=swift&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=swarupkanade&theme=swift&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarupkanade&theme=flag-india&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=swarupkanade&theme=flag-india&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+
+### <img src="https://www.svgrepo.com/show/255116/stats-graph.svg" height="25"> GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=swarupkanade&hide_border=true)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=swarupkanade&hide_border=true))
+
+### <img src="https://www.svgrepo.com/show/95398/chart.svg" height="25"> Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarupkanade&theme=flag-india&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=swarupkanade&theme=flag-india&layout=compact)
